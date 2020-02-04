@@ -1,7 +1,7 @@
 #!/bin/bash -xve
 
 # required packages
-pip3 install --upgrade pip
+pip install --upgrade pip
 pip install catkin_pkg
 pip install empy
 pip install pyyaml
